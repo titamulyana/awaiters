@@ -25,6 +25,7 @@ alur
 
 tech 
 * express js (back-end)
-* vue js / react js
+* vue js
 * postgreSql
 * sequelize
+* tailwind
